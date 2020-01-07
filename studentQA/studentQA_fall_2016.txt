@@ -345,7 +345,8 @@ When its exercise would be unprofitable.
 What does it mean when an option is at the money?
 When the exercise price and asset price are equal.  
 What is an American option?
-An American option allows its holder to exercise the right to purchase (if a call) or sell (if a put) the underlying asset on or before the expiration datWhat is an European option?
+An American option allows its holder to exercise the right to purchase (if a call) or sell (if a put) the underlying asset on or before the expiration date.
+What is an European option?
 An European option allows for the exercise of the option only on the expiration date.  
 What is a covered call?
 A covered call position is the purchase of a share of stock with a simultaneous sale of a call on that stock.  

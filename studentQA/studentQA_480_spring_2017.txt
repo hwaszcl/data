@@ -18,11 +18,11 @@ What is the basic message of the CAPM?
 Risk is priced in a portfolio context, systematic risk is priced; unsystematic risk is not priced and doesn't affect the required return a project.
 How might a multinational firm use the CAPM?
 CAPM can be used to estimate the required return on foreign projects.
-	What is the goal of Multinational Corporation (MNC)
+What is the goal of Multinational Corporation (MNC)
 to maximize shareholder wealth
-	What is the World Trade Organization (WTO)?
+What is the World Trade Organization (WTO)?
 WTO was established by General Agreement on Tariffs and Trade (GATT) to provide a forum for multilateral trade negotiations and to settle trade disputes since 1994.
-	What are the details of licensing?
+What are the details of licensing?
 Copyrights, patents, trademarks, or trade names in exchange for fees or some other benefits.
 What is foreign exchange risk?
 The risk of valuation changes resulting from unforeseen currency movements.
@@ -857,19 +857,19 @@ Trading by officers, managers, etc. who hold private information allowing them t
 What is the intrinsic value of a company?
 The present value of a firm’s expected future net cash flows discounted by the required rate of return.
 What is hedging?
- Investing in an asset to reduce the overall risk of a portfolio.
- What is inflation?
+Investing in an asset to reduce the overall risk of a portfolio.
+What is inflation?
 The rate at which the general level of prices for goods and services is rising.
 What is the initial public offering for a company?
 Stock that is issued to the public for the first time by a formerly privately owned company.
 What is a tariff?
 A tax imposed by a government on imported goods.
- What is a margin?
- It describes securities purchased with money borrowed from a broker.
+What is a margin?
+It describes securities purchased with money borrowed from a broker.
 Does a writer buy or sell an option?
 Sell.
- What is the par value of a bond?
- The same amount as the face value.
+What is the par value of a bond?
+The same amount as the face value.
 What is preferred stock?
 Shareholders have a fixed stream of dividends, and no voting rights.
 What is a primary market?
@@ -883,11 +883,11 @@ When was the World Bank established?
 What is the premium of an option?
 The purchase price of the option.
 What is a covered call?
- Purchase of a share of stock with a simultaneous sale of a call on that stock.
+Purchase of a share of stock with a simultaneous sale of a call on that stock.
 What is a Eurodollar?
 describes US Dollar deposits placed in Europe banks. 
- IMF refers to what agency?
- International Monetary Fund
+IMF refers to what agency?
+International Monetary Fund
 Exchange of goods without currency?
 Barter
 What does appreciation mean?
@@ -901,12 +901,12 @@ To maximize shareholder wealth
 What is a joint venture?
 A venture or business owned and operated by two or more different firms. 
 In a multinational firm value can be specified in the same manner as what other type of firm?
- Purely domestic firms
- What influences the cost of capital in a multinational firm?
+Purely domestic firms
+What influences the cost of capital in a multinational firm?
 Required rate of return
- What is a balance of payments?
- A summary of transactions between domestic and international firms. 
- If a country has an increasing inflation rate what will happen to its current accounts?
+What is a balance of payments?
+A summary of transactions between domestic and international firms. 
+If a country has an increasing inflation rate what will happen to its current accounts?
  They will decrease
  What are the most influential factors that effect international trade?
  Inflation, National income, policies and exchange rates

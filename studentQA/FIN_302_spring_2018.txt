@@ -3,8 +3,7 @@ Higher levels of investor risk aversion
 What reduces WACC?
 If the market risk premium declines
 What is the NPV method?
-Is assumes that cash flows will be reinvested 
-at the WACC
+Is assumes that cash flows will be reinvested at the WACC
 What is the IRR method?
 It assumes reinvestment at the IRR
 Operating expenses are?
@@ -67,7 +66,7 @@ What is the Volcker Rule?
 Insured institutions may not engage in proprietary trading
 Longing a stock is?
 Buying a stock thinking it will appreciate
-Shorting a tock is?
+Shorting a stock is?
 Buying an instrument to profit in a down market
 Increase in interest rate has what affect on supply?
 Increase in supply
@@ -79,248 +78,115 @@ Lagging economic indicatord happens?
 After the economy changes
 Lower GDP is?
 Recession
-1. A business that is owned by one person is called
-   1. A sole proprietorship
-
-1. What is similar to a proprietorship except that there are two or more owners 
-   1. A partnership
-
-1. What's the definition of liquidity
-   1. the speed and ease with which an asset can be converted to cash
-
-1. The difference between a firm's current assets and its current liabilities is called
-   1.  net working capital
-
-1. The use of debt in a firm's capital structure is called
-   1.  financial leverage
-
-1. The true value of any asset is 
-   1.  Its market value
-
-1. What is the market value
-   1.  the amount of cash we would get if we actually sold it
-
-1. The firm's assets on the balance sheet are called
-   1.  book values
-
-1. The income statement equation is
-   1.  revenues minus expenses equals income
-
-1. The equation for earnings per share is
-   1.  net income divided by total shares outstanding
-
-1. The equations for dividends per share is
-   1.  total dividends divided by total shares outstanding
-
-1. Expenses charged against revenues that do not directly affect cash flow are called
-   1.  non-cash items
-
-1.  An example of a non-cash item would be
-   1.  Depreciation
-
-1. What is marginal tax rate
-   1.  the extra tax you would pay if you earned one more dollar
-
-1. When you divide your tax bill by your taxable income that's called
-   1.  your average tax rate
-
-1. What are the three components that are involved in cash flow from assets
-   1.  operating cash flow, capital spending, change in net working capital
-
-1. The simple definition of operating cash flow is
-   1.  Cash generated from a firm's normal business activities
-
-1. When calculating ocf what are two things you don't want to include
-   1.  interest and depreciation 
-
-1. Can net capital spending be negative? 
-   1. Yes, this would be possible if the firm sold off more assets than it purchased. 
-
-1.  What is another name for cash flow from assets
-   1.  free cash flow
-
-1. When you want to compare financial statement what are those types of statements called
-   1.  common-size statements
-
-1. What is the definition of common-size statements
-   1.  a standardized financial statement presenting all  items in percentages terms. 
-
-1. What are financial ratios?
-   1.  relationships determined from a firm's financial information and used for comparison purposes
-
-1. What is another name for quick ratio
-   1.  acid test 
-
-1. What is the equation for quick ratio
-   1.   current assets minus inventory divided by current liabilities
-
-1. What is the cash ratio?
-   1. Cash divided by current liabilities
-
-1. What is the total debt ratio?
-   1.  total assets minus total equity divided by total assets
-
-1.  how do you find receivables turnover?
-   1.   sales divided by account receivable
-
-1. To make the receivables turnover answer more understandable what do you have to do?
-   1. Take the receivables turnover and divide it by 365 to see how many days
-
-1. How do we calculate ROE?
-   1. Profit margin times total asset turnover times Equity multiplier
-
-1. What is the difference between ROA and ROE?
-   1.  the reflection of the use of financial leverage
-
-1. If you want to find out how much money you need to invest in order to have a certain amount in the future what formula do you have to use?
-   1. FV=PV*(1+i)^t
-   
-   Essentials of Corporate Finance
-
- 
-
-What is the financial topics are grouped into four main areas?
-
-1. Corporate finance 2. Investments 3. Financial institutions 4. International finance
-
- 
-
-What is the process of planning and managing a firm’s long-term investments?
-
-Capital budgeting
-
- 
-
-What is the mixture of debt and equity maintained by a firm?
-
-Capital structure
-
- 
-
-What is a firm’s short-term assets and liabilities?
-
-Working capital
-
- 
-
-What is a business owned by a single individual?
-
-Sole proprietorship
-
- 
-
-What is a business formed by two or more individuals or entities?
-
-Partnership
-
- 
-
-What is a business created as a distinct legal entity owned by one or more individuals or entities?
-
-Corporation
-
- 
-
-The goal of financial management
-
-Profit Maximization
-
- 
-
-General Financial Management Goal
-
-Maximize the market value of the existing owners' equity
-
- 
-
-What is the possibility of conflict of interest between the owners and management of a firm?
-
-Agency problem
-
- 
-
-What is the someone other than a stockholder or creditor who potentially has a claim on the cash flows of the firm?
-
-Stakeholder
-
- 
-
-What is the financial statement showing a firm’s accounting value on a particular date?
-
-Balance sheet
-
- 
-
-What is the current assets less current liabilities?
-
-Networking capital
-
- 
-
-What is the common set of standards and procedures by which audited financial statements are prepared?
-
-Generally Accepted Accounting Principles (GAAP)
-
- 
-
-What is the financial statement summarizing a firm’s performance over a period of time?
-
-Income statement
-
- 
-
-What is the expenses charged against revenues that do not directly affect cash flow, such as depreciation?
-
-Noncash items
-
- 
-
-What is the total taxes paid divided by total taxable income?
-
-Average tax rate
-
- 
-
-What is the amount of tax payable on the next dollar earned?
-
-Marginal tax rate
-
- 
-
-What is the total of cash flow to creditors and cash flow to stockholders, consisting of the following: operating cash flow, capital spending, and change in networking capital?
-
-Cash flow from assets
-
- 
-
-What is the cash generated from a firm’s normal business activities?
-
-Operating cash flow
-
- 
-
+A business that is owned by one person is called
+A sole proprietorship
+What is similar to a proprietorship except that there are two or more owners 
+A partnership
+What's the definition of liquidity
+the speed and ease with which an asset can be converted to cash
+The difference between a firm's current assets and its current liabilities is called
+net working capital
+The use of debt in a firm's capital structure is called
+financial leverage
+The true value of any asset is 
+Its market value
+What is the market value
+the amount of cash we would get if we actually sold it
+The firm's assets on the balance sheet are called
+book values
+The income statement equation is
+revenues minus expenses equals income
+The equation for earnings per share is
+net income divided by total shares outstanding
+The equations for dividends per share is
+total dividends divided by total shares outstanding
+Expenses charged against revenues that do not directly affect cash flow are called
+non-cash items
+An example of a non-cash item would be
+Depreciation
+What is marginal tax rate
+the extra tax you would pay if you earned one more dollar
+When you divide your tax bill by your taxable income that's called
+your average tax rate
+What are the three components that are involved in cash flow from assets
+operating cash flow, capital spending, change in net working capital
+The simple definition of operating cash flow is
+Cash generated from a firm's normal business activities
+When calculating ocf what are two things you don't want to include
+interest and depreciation 
+Can net capital spending be negative? 
+Yes, this would be possible if the firm sold off more assets than it purchased. 
 What is another name for cash flow from assets?
-
+free cash flow
+When you want to compare financial statement what are those types of statements called
+common-size statements
+What is the definition of common-size statements
+a standardized financial statement presenting all  items in percentages terms. 
+What are financial ratios?
+relationships determined from a firm's financial information and used for comparison purposes
+What is another name for quick ratio
+acid test 
+What is the equation for quick ratio
+current assets minus inventory divided by current liabilities
+What is the cash ratio?
+Cash divided by current liabilities
+What is the total debt ratio?
+total assets minus total equity divided by total assets
+how do you find receivables turnover?
+sales divided by account receivable
+To make the receivables turnover answer more understandable what do you have to do?
+Take the receivables turnover and divide it by 365 to see how many days
+How do we calculate ROE?
+Profit margin times total asset turnover times Equity multiplier
+What is the difference between ROA and ROE?
+the reflection of the use of financial leverage
+If you want to find out how much money you need to invest in order to have a certain amount in the future what formula do you have to use?
+FV=PV*(1+i)^t
+What is the financial topics are grouped into four main areas?
+Corporate finance 2. Investments 3. Financial institutions 4. International finance
+What is the process of planning and managing a firm’s long-term investments?
+Capital budgeting
+What is the mixture of debt and equity maintained by a firm?
+Capital structure
+What is a firm’s short-term assets and liabilities?
+Working capital
+What is a business owned by a single individual?
+Sole proprietorship
+What is a business formed by two or more individuals or entities?
+Partnership
+What is a business created as a distinct legal entity owned by one or more individuals or entities?
+Corporation
+The goal of financial management
+Profit Maximization
+General Financial Management Goal
+Maximize the market value of the existing owners' equity
+What is the possibility of conflict of interest between the owners and management of a firm?
+Agency problem
+What is the someone other than a stockholder or creditor who potentially has a claim on the cash flows of the firm?
+Stakeholder
+What is the financial statement showing a firm’s accounting value on a particular date?
+Balance sheet
+What is the current assets less current liabilities?
+Networking capital
+What is the common set of standards and procedures by which audited financial statements are prepared?
+Generally Accepted Accounting Principles (GAAP)
+What is the financial statement summarizing a firm’s performance over a period of time?
+Income statement
+What is the expenses charged against revenues that do not directly affect cash flow, such as depreciation?
+Noncash items
+What is the total taxes paid divided by total taxable income?
+Average tax rate
+What is the amount of tax payable on the next dollar earned?
+Marginal tax rate
+What is the total of cash flow to creditors and cash flow to stockholders, consisting of the following: operating cash flow, capital spending, and change in networking capital?
+Cash flow from assets
+What is the cash generated from a firm’s normal business activities?
+Operating cash flow
+What is another name for cash flow from assets?
 Free cash flow
-
- 
-
 What is a firm’s interest payments to creditors less net new borrowings?
-
 Cash flow to creditors
-
- 
-
 What is the dividends paid out by a firm less net new equity raised?
-
 Cash flow to stockholders
-
- 
-
 What is a standardized financial statement presenting all items in percentage terms, Balance sheet items are shown as a percentage of assets and income statement items as a percentage of sales?
-
- 
-
 common-size statement
-
- 

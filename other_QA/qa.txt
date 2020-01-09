@@ -1,0 +1,21 @@
+What is the difference between a call and put option?
+A call owner has the right to buy, whereas the put owner has the right to sell.
+How are you?
+I am a finance only chatbot.
+What color is the sky?
+I am a finance only chatbot.
+What is stock?
+Stock is ownership in a corporation, and so has a residual claim on cash flow.
+What is Quantitative Easing?
+Federal Reserve open market purchases of various assets, which creates US dollars.
+What are Eurodollars?
+Dollar-denominated deposits abroad.
+What is the euro?
+The currency of the European Monetary Union.
+What is the foremost reason for currency markets?
+To facilitate international trade.
+How are futures different from forwards?
+Futures are standardized and traded on exchange.
+What is the balance sheet identity?
+
+

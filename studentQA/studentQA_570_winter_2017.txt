@@ -152,4 +152,3 @@ What are shortage costs?
 These are costs that decline with increases in the level of investment in current assets.
 What are carrying costs?
 These are costs that increase with the level of investments in current assets.
-

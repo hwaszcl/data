@@ -17,5 +17,10 @@ To facilitate international trade.
 How are futures different from forwards?
 Futures are standardized and traded on exchange.
 What is the balance sheet identity?
-
-
+Assets are defined as the sum of liabilities and stockholders' equity.
+What does the balance sheet measure?
+How a firm finances its assets.
+Does the balance sheet measure over time?
+No, the balance sheet is a snapshot in time.
+What is a derivative?
+A contract with a payoff dependent on some other asset or event.

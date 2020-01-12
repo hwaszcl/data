@@ -24,3 +24,38 @@ Does the balance sheet measure over time?
 No, the balance sheet is a snapshot in time.
 What is a derivative?
 A contract with a payoff dependent on some other asset or event.
+What is a forward contract?
+An agreement to buy or sell a specified quantity of something for a set price on a set date.
+What is net income?
+The profit of the firm which is available to shareholders.
+What happens to net income?
+It is either retained or paid as dividends.
+What is operating cash flow?
+It is EBIT plus Depreciation minus taxes.
+What is an example of a non-cash expense?
+Depreciation.
+How do you calculate a stock's dividend yield?
+Annualized dividends divided by the stock price.
+What is the profit margin?
+Net income divided by sales.
+What does the profit margin measure?
+A company's revenue and expenses, also known as its profitability.
+What are agency costs?
+Costs due to management not acting in shareholder interests.
+What is the agency problem?
+The idea that management may not act in shareholder interests.
+What is the goal of financial management?
+To maximize shareholder wealth.
+What does capital structure mean?
+The particular mix of debt and equity used to finance a firm's assets.
+What is the capital stack?
+It is another term for capital structure.
+What is an arbitrage?
+Loosely, it is earning a positive amount of money with no investment and no possibility of loss.
+What is liquidity?
+The ability to sell sell an asset quickly without dropping its price.
+What causes the agency problem?
+The separation of corporate ownership and control.
+What is the differene between an American and European option?
+The European option can only be exercised at expiration, whereas the American can be exercised at expiration or anytime prior.
+

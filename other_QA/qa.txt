@@ -53,9 +53,28 @@ It is another term for capital structure.
 What is an arbitrage?
 Loosely, it is earning a positive amount of money with no investment and no possibility of loss.
 What is liquidity?
-The ability to sell sell an asset quickly without dropping its price.
+The ability to sell an asset quickly without dropping its price.
 What causes the agency problem?
 The separation of corporate ownership and control.
 What is the differene between an American and European option?
 The European option can only be exercised at expiration, whereas the American can be exercised at expiration or anytime prior.
-
+What is another term for a derivative?
+A contingent claim.
+What programming languages are often used in finance?
+The most common are python, C++, and R.
+How many stock exchanges are there?
+There are about 18 exchanges, though an order may be executed on one of the numerous off-exchange venues.
+What is geometric Brownian motion?
+A stochastic differential equation commonly used to model the change in a stock's price.
+What is the Federal Reserve?
+The monetary policy authority in the US.  The Fed also has other regulatory and research responsibilities.
+What is money?
+Anything that serves as a medium of exchange and store of value.
+What does the term de novo mean?
+It is a new bank.
+How would you define liquidity?
+The ability to sell an asset quickly without dropping its price.
+What is the VIX?
+It is a volatility index.
+Can you trade the VIX?
+Yes there are futures an option contracts on the VIX index.

@@ -77,4 +77,69 @@ The ability to sell an asset quickly without dropping its price.
 What is the VIX?
 It is a volatility index.
 Can you trade the VIX?
-Yes there are futures an option contracts on the VIX index.
+Yes there are futures and option contracts on the VIX index.
+What is a market order?
+An order which specifies the number of shares to trade, but not the price.
+What is a market buy order?
+An order to buy a specified number of shares at whatever the best price is.
+What is a market sell order?
+An order to sell a specified number of shares at whatever the best price is.
+What is a limit order?
+An order which specifies both the number of shares to trade, and the price to trade them.
+What is a limit buy order?
+An order which specifies both the number of shares to buy, and the price to buy them.
+What is a limit sell order?
+An order which specifies both the number of shares to sell, and the price to sell them.
+When would you use a limit order?
+What market prices are changing rapidly, or there is little liquidity.
+When would you use a market order?
+When trading highly liquid stocks in stable markets.
+What is a stop order?
+An order to exit a position if you are losing a certain amount of money.
+When do you use a stop buy order?
+To place a stop on a short position.
+When do you use a stop sell order?
+To place a stop on a long position.
+What is a stop limit order?
+A stop order with a specific exit price.
+Is using a stop limit order a good idea?
+No, you may never exit your position.
+What is the one true text editor?
+Emacs is the one true editor.
+Is vim a good text editor?
+Yes, it is second only to emacs.
+What is the ticker for crude oil on the NYMEX?
+It is CL.
+What text editor are you using right now?
+I am using emacs.
+Where is the delivery point for CL?
+It is in Cushing Oklahoma.
+What grade of crude oil is CL?
+It is light and sweet crude.
+For how many barrels is the CL contract?
+For 1000 barrels.
+How many gallons in a barrel?
+There are 42 gallons in a barrel.
+What is the ticker for natural gas on the NYMEX?
+It is NG.
+What is the delivery point for NG?
+The delivery point is the Henry Hub in Louisiana.
+How large is the NG contract on the NYMEX?
+It is for 10000 MMBtu.
+What are the delivery months for CL.
+CL has a contract delivered every month. 
+What are the delivery months for NG.
+NG has a contract delivered every month.
+What is the ticker for the soybeans contract on the CBOT?
+The ticker is ZS.
+What does NYMEX stand for?
+The New York Mercantile Exchange.
+What does CBOT stand for?
+The Chicago Board of Trade.
+What does CBOE stand for?
+The Chicago Board Options Exchange.
+What is the crush spread?
+It is a trade around the soybean refining margin.
+What do you trade in the crush spread?
+You trade soybeans, soymeal, and soy oil.
+

@@ -142,4 +142,11 @@ What is the crush spread?
 It is a trade around the soybean refining margin.
 What do you trade in the crush spread?
 You trade soybeans, soymeal, and soy oil.
-
+What are soybeans refined into?
+Soybeans are refined into soymeal and soy oil.
+What is crude oil refined into?
+Crude oil is refined into gasoline and heating oil.
+What is the crack spread?
+It is a trade around the crude oil refining margin.
+What do you trade in the crack spread?
+You trade crude oil, gasoline, and heating oil.

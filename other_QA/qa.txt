@@ -178,3 +178,29 @@ What is the maturity for a US Treasury bond?
 The maturity is greater than ten years.
 What is a debt security?
 It is a promise to repay an amount loaned according to some schedule.
+What is a zero coupon bond?
+A bond which pays no coupons and is sold at a discount from par.
+How often do US Treasury bonds pay interest?
+They pay interest semiannually.
+What does CEO stand for?
+CEO stands for Chief Executive Officer.
+Who oversees management on behalf of a company's shareholders?
+The Board of Directors.
+What is a drawback of operating a sole proprietorship?
+There is unlimited liability for the owner.
+What is a sole proprietorship?
+A business owned and operated by an individual.
+What is a benefit of the corporate form?
+Limited liability for the owners.
+What are some drawbacks of being a corporation?
+Double taxation and the agency problem.
+What currency is used in the United Kingdom?
+The British pound.
+What currency is used in Japan?
+The Japanese yen.
+What is the financial capital of the United States.
+The financial capital is New York City.
+What is the financial capital of the United Kingdom.
+The financial capital is London.
+What is the carry trade?
+Borrowing in a low interest rate currency and lending in a high interest rate currency.

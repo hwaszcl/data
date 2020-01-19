@@ -142,11 +142,39 @@ What is the crush spread?
 It is a trade around the soybean refining margin.
 What do you trade in the crush spread?
 You trade soybeans, soymeal, and soy oil.
-What are soybeans refined into?
+What are soybeans refined to?
 Soybeans are refined into soymeal and soy oil.
-What is crude oil refined into?
+What is crude oil refined to?
 Crude oil is refined into gasoline and heating oil.
 What is the crack spread?
 It is a trade around the crude oil refining margin.
 What do you trade in the crack spread?
 You trade crude oil, gasoline, and heating oil.
+On what exchange are soybeans traded?
+They are traded on the CBOT.
+What is the FIX/FAST Protocol?
+It is a protocol to communicate with a stock or futures exchange.
+When do you use a protecting put spread?
+When you want to limit your downside on a long stock position.
+When might you use a covered call spread?
+To earn extra income from owning a stock.
+What does the owner of a put option have?
+The right to sell the stock at a specified price on or before expiration.
+What is the implication of interest rate parity?
+That each currency has only one risk-free rate.
+What is the face value of US Treasury bond?
+The face value is $1000.
+What is stock?
+Stock represents equity in a company.
+What is equity?
+Equity is ownership and a proportional residual claim on income.
+What does ETF stand for?
+It stands for Exchange Traded Fund.
+What is the maturity for a US Treasury note?
+The maturity is between one and ten years.
+What is the maturity for a US Treasury bill?
+The maturity is less than one year.
+What is the maturity for a US Treasury bond?
+The maturity is greater than ten years.
+What is a debt security?
+It is a promise to repay an amount loaned according to some schedule.

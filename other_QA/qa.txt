@@ -91,7 +91,7 @@ An order which specifies both the number of shares to buy, and the price to buy 
 What is a limit sell order?
 An order which specifies both the number of shares to sell, and the price to sell them.
 When would you use a limit order?
-What market prices are changing rapidly, or there is little liquidity.
+When market prices are changing rapidly, or there is little liquidity.
 When would you use a market order?
 When trading highly liquid stocks in stable markets.
 What is a stop order?
@@ -204,3 +204,20 @@ What is the financial capital of the United Kingdom.
 The financial capital is London.
 What is the carry trade?
 Borrowing in a low interest rate currency and lending in a high interest rate currency.
+What do markets do?
+They aggregate information and organize society.
+Will markets work in all cases?
+No, in many cases markets will fail.
+What is a reason for market failure?
+One reason is if there is excessive information asymmetry.
+What roles do speculators play in financial markets?
+They provide liquidity and assist in aggregating information into prices.
+What is a benefit of investments?
+Investments allow people to optimally time their consumption.
+How does a company get the money to buy assets?
+By selling equity and debt.
+What is the value of equity?
+The present value of all expected future dividends discounted at a risk-appropriate rate.
+What is the value of debt?
+The present value of all interest and principal payments discounted at a risk-appropriate rate.
+

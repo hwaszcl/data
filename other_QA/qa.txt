@@ -127,7 +127,7 @@ The delivery point is the Henry Hub in Louisiana.
 How large is the NG contract on the NYMEX?
 It is for 10000 MMBtu.
 What are the delivery months for CL.
-CL has a contract delivered every month. 
+CL has a contract delivered every month.
 What are the delivery months for NG.
 NG has a contract delivered every month.
 What is the ticker for the soybeans contract on the CBOT?
@@ -220,4 +220,33 @@ What is the value of equity?
 The present value of all expected future dividends discounted at a risk-appropriate rate.
 What is the value of debt?
 The present value of all interest and principal payments discounted at a risk-appropriate rate.
-
+What is a common non-cash deduction on the income statement?
+Depreciation is a common non-cash deduction.
+What is another non-cash deduction.
+Amortization is another.
+Why may you want to trade volatility indexes?
+In order to hedge option portfolios.
+How do we hedge out the changes in a stock's price from options on that stock?
+We use the delta hedging procedure.
+What does the greek rho measure?
+The sensitivity of the option value to changes in the interest rate.
+What does the Greek delta measure?
+The sensitivity of the option value to changes in the stock price.
+What does the Greek vega measure?
+The sensitivity of the option value to changes in the stock's volatility.
+Is vega a Greek letter?
+Actually no.
+What does the Greek theta measure?
+The sensitivity of the option value to changes in the risk free rate.
+What does the Greek gamma measure?
+The sensitivity of the option's delta to changes in the stock's price.
+What is the practical implication of a large gamma value?
+It means you have to delta hedge more often.
+Does the Black-Scholes option pricing model allow volatility to change?
+No, it assumes volatility is constant.
+How is the weather?
+I am a finance only assistant.
+What are you?
+A finance assistant.
+How can we create option pricing models which allow for changing volatility?
+If we can trade volatility, then we can use the replication approach.

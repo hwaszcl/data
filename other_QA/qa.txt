@@ -228,17 +228,17 @@ Why may you want to trade volatility indexes?
 In order to hedge option portfolios.
 How do we hedge out the changes in a stock's price from options on that stock?
 We use the delta hedging procedure.
-What does the greek rho measure?
+What does the Greek Rho measure?
 The sensitivity of the option value to changes in the interest rate.
 What does the Greek delta measure?
 The sensitivity of the option value to changes in the stock price.
-What does the Greek vega measure?
+What does the Greek Vega measure?
 The sensitivity of the option value to changes in the stock's volatility.
-Is vega a Greek letter?
+Is Vega a Greek letter?
 Actually no.
 What does the Greek theta measure?
 The sensitivity of the option value to changes in the risk free rate.
-What does the Greek gamma measure?
+What does the Greek Gamma measure?
 The sensitivity of the option's delta to changes in the stock's price.
 What is the practical implication of a large gamma value?
 It means you have to delta hedge more often.
@@ -250,3 +250,5 @@ What are you?
 A finance assistant.
 How can we create option pricing models which allow for changing volatility?
 If we can trade volatility, then we can use the replication approach.
+What day is today?
+I only answer finance questions.

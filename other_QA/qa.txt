@@ -252,3 +252,19 @@ How can we create option pricing models which allow for changing volatility?
 If we can trade volatility, then we can use the replication approach.
 What day is today?
 I only answer finance questions.
+What is the text editor of the future?
+Emacs.
+If the discount rate increases, then what happens to present values?
+Present values decline.
+If the discount rate increases, then what happens to future values?
+Future values increase.
+As time increases, what happens to the discount rate required to make some present value equal to some future value?
+The discount rate declines.
+What are some synonyms for discount rate?
+Some synonyms are interest rate or required return.
+What is an annuity?
+A contract which pays a fixed amount, every period, for a fixed number of periods.
+What is an perpetuity?
+A contract which pays a fixed amount, every period, for an infinite number of periods.
+What is the present value of a perpetuity?
+It is the payment per period divided by the rate per period.

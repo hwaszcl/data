@@ -268,3 +268,13 @@ What is an perpetuity?
 A contract which pays a fixed amount, every period, for an infinite number of periods.
 What is the present value of a perpetuity?
 It is the payment per period divided by the rate per period.
+What is a repo?
+It is a repurchase agreement.
+How does a repo work?
+The party entering the repo sells an asset with an agreement to repurchase it in the future.
+What is the interest payment in a repo?
+It is the difference in the sales and purchase prices.
+Is a repo effectively a collateralized loan?
+Yes, a repo is a short term loan with collateral.
+What are some money market securities?
+Some examples are repos, commercial paper, Treasury bills, and bankers' acceptances.

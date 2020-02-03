@@ -278,3 +278,17 @@ Is a repo effectively a collateralized loan?
 Yes, a repo is a short term loan with collateral.
 What are some money market securities?
 Some examples are repos, commercial paper, Treasury bills, and bankers' acceptances.
+What does LIBOR stand for?
+It stands for the London Interbank Offer Rate.
+For what does the Fed use repos?
+To affect the money supply for a short period.
+How does the Fed briefly increase the money supply.
+The Fed enters into a reverse repo agreement.
+How does the Fed decrease the money supply for a short period of time.
+The Fed enters into a repo agreement.
+Can the fed buy long-term bonds?
+Yes the Fed can buy bonds of any maturity.
+What is a systematic risk?
+A risk that affects all securities.
+What is another term for systematic risk?
+Another term is market risk. 

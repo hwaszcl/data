@@ -292,3 +292,21 @@ What is a systematic risk?
 A risk that affects all securities.
 What is another term for systematic risk?
 Another term is market risk. 
+What is a currency?
+Anything that serves as a medium of exchange and a store of value.
+What are noise traders?
+Traders who trade on information the market has already discounted.
+What are informed traders?
+Traders who have information not yet reflected in market prices.
+Do market makers lose to the informed traders?
+Yes, market makers always lose to the informed.
+If prices are a random walk, and you trade randomly, will you break even?
+No, because of transaction costs.
+What is geometric Brownian motion?
+A random process which is commonly used to model stock prices over time.
+What is a random walk?
+Roughly, a process where at each point there is a 50% chance of increasing or decreasing.
+What is the effect of trading on margin?
+It increases your gains and losses.
+How do you calculate your margin percent?
+It is defined as equity divided by the market value of the position.

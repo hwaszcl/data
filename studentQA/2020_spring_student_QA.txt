@@ -1,1 +1,22 @@
-
+What is the major disadvantage of actively managed funds?
+Actively managed funds lead to underperformance due to churning.
+What is the purpose of the foreign exchange market?
+To facilitate international trade.
+What is the difference between a call option and a put option?
+A call option is when you can buy for a certain price and a put option is when you can sell at a certain price.
+Why are gains and losses magnified on an option?
+Gains and losses are magnified because you are buying on leverage.
+When is a call option considered in the money?
+When the asset price is greater than the exercise price.
+When is a put option considered out of the money?
+When the asset price is less than the exercise price.
+Why are speculators important in trading futures?
+Speculators lessen the volatility and lower the transaction costs.
+What is the purpose of futures in the market?
+Futures increase production within the economy.
+What position do producers have in the futures market?
+Producers would have a long position because they want to lock in a price by selling futures.
+Who is the futures market made for?
+The futures market is made for hedgers. 
+What is the purpose of speculators in the futures market?
+Speculators are always ready to transact meaning consumers can purchase futures without having to wait for producers to be selling contracts.
